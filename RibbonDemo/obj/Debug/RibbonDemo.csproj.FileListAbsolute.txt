@@ -1,0 +1,11 @@
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.exe
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\RibbonDemo.pdb
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\System.Windows.Forms.Ribbon.dll
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\bin\Debug\System.Windows.Forms.Ribbon.pdb
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csprojResolveAssemblyReference.cache
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.BlackForm.resources
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.Properties.Resources.resources
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.MainForm.resources
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csproj.GenerateResource.Cache
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.exe
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\RibbonDemo\obj\Debug\RibbonDemo.pdb

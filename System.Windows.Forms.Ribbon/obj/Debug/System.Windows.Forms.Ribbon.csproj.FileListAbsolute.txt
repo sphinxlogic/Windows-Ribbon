@@ -1,0 +1,4 @@
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon.dll
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon.pdb
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon.dll
+E:\_Version Control\Codeplex\MFC\ribbonsource0.4\System.Windows.Forms.Ribbon\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon.pdb
